@@ -1,5 +1,5 @@
 # **Finastra Design Kit**
-# **UI Library (v 2.3.1)**
+# **UI Library (v 2.3.2)**
 
 
 ## What’s new?
@@ -10,23 +10,33 @@ Version 2.3
 - New stepper vertical component
 - Check the artboard preview in the sketch library to get a full overview of the component.
 
-**New Component / Push Notification added to Component Library**
-- New Push Notification component coming with various options (basic, info, success, warning, error) 
+**New Component / Push Notifications added to Component Library**
+- New Push Notification component coming with various options (basic, info, success, warning, error)
 - Check the artboard preview in the sketch library to get a full overview of the component.
+
+**Accessibility fixes**
+- Improving accessibility for dense chip text to make AA compliant.
+
 
 Version 2.2
 
-**New Component Improvement/ Menu**
- - Prebuild "5 items menus" insertable symbols with various options: 
- Text - Icon - Circle Icon - Circle Image - Thumbnail - "Menus" (location, currency, dashboards, languages, API...), "Select Text Field + Menu" and "Textfield + Menu Autocomplete" samples accessibles in sketch from "Material Components page"and also from "Symbols menu / Menu / Demo / ..."
+**New Component Improvement / Menu**
+- Prebuild "5 items menus" insertable symbols with various options:
+  - Text
+  - Icon
+  - Circle Icon
+  - Circle Image
+  - Thumbnail
+- "Menus" (location, currency, dashboards, languages, API...), "Select Text Field + Menu" and "Textfield + Menu Autocomplete" samples accessibles in sketch from "Material Components page"and also from "Symbols menu / Menu / Demo / ...
 
- **New Component Improvement/ List**
-- Component extended with more options (Circle Icon, Body 2 Titles...) 
+**New Component Improvement / List**
+- Component extended with more options (Circle Icon, Body 2 Titles...)
 - Symbols renaming to be more clear ;)
 
 **New Beta Component / Stepper**
-- New stepper horizontal component coming with 2 main options (label-right and label bottom) 
+- New stepper horizontal component coming with 2 main options (label-right and label bottom)
 - This beta version is available to test in the "Design System / Design assets / 03-Contribute" folder.
+
 
 Version 2.1
 
@@ -112,7 +122,7 @@ Still in progress ;)
 
 
 ## What’s next?
-- App Starter Kit
+- Single color palette
 - … and more ;)
 
 Enjoy ;)
