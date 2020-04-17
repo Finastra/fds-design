@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>svg/Login</title>
+    <desc>Created with Sketch.</desc>
+    <g id="User-Flows" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Login">
+            <rect fill="#FFFFFF" x="0" y="0" width="200" height="200"></rect>
+            <g id="Background" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="200" height="200"></rect>
+            </g>
+            <g id="Text-/-Title" transform="translate(69.000000, 42.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="60" height="6"></rect>
+            </g>
+            <rect id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" x="51" y="58" width="99" height="84" rx="2"></rect>
+            <g id="Text-/-Title" transform="translate(79.000000, 68.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="42" height="6"></rect>
+            </g>
+            <g id="Button" transform="translate(63.000000, 122.000000)" fill="#1A8DE6" fill-opacity="0.5">
+                <rect id="Rectangle" x="0" y="0" width="76" height="10" rx="2"></rect>
+            </g>
+            <g id="Input-/-Text" transform="translate(63.000000, 102.000000)">
+                <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="76" height="12" rx="1"></rect>
+                <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="0" y="11" width="76" height="1"></rect>
+            </g>
+            <g id="Input-/-Select" transform="translate(63.000000, 82.000000)">
+                <g id="Input-/-Text">
+                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="76" height="12" rx="1"></rect>
+                    <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="0" y="11" width="76" height="1"></rect>
+                </g>
+                <g id="Text-/-Text" transform="translate(3.000000, 4.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                    <rect id="Rectangle" x="0" y="0" width="44" height="4"></rect>
+                </g>
+                <polygon id="Triangle" fill="#1A8DE6" transform="translate(69.500000, 5.500000) rotate(180.000000) translate(-69.500000, -5.500000) " points="69.5 4 72 7 67 7"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
