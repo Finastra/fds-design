@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>svg/Upload</title>
+    <desc>Created with Sketch.</desc>
+    <g id="User-Flows" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Upload">
+            <rect fill="#FFFFFF" x="0" y="0" width="200" height="200"></rect>
+            <g id="Background" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="200" height="200"></rect>
+            </g>
+            <rect id="Rectangle" fill="#FFFFFF" x="45" y="44" width="110" height="112" rx="2"></rect>
+            <g id="Text-/-Paragraph-/-center" transform="translate(57.000000, 87.000000)" fill="#1A8DE6">
+                <rect id="Rectangle" fill-opacity="0.1" x="0" y="12" width="88" height="4"></rect>
+                <rect id="Rectangle" fill-opacity="0.1" x="0" y="20" width="88" height="4"></rect>
+                <rect id="Rectangle" fill-opacity="0.1" x="0" y="28" width="88" height="4"></rect>
+                <rect id="Rectangle" fill-opacity="0.1" x="0" y="36" width="42.5806452" height="4"></rect>
+                <g id="Text-/-Title" transform="translate(21.290323, 0.000000)" fill-opacity="0.25">
+                    <rect id="Rectangle" x="0" y="0" width="42.5806452" height="6"></rect>
+                </g>
+            </g>
+            <rect id="Rectangle" fill-opacity="0.25" fill="#1A8DE6" x="57" y="137" width="87" height="8"></rect>
+            <rect id="Rectangle" fill="#1A8DE6" x="57" y="137" width="31" height="8"></rect>
+            <g id="Symbol-/-Download" transform="translate(99.500000, 67.000000) rotate(180.000000) translate(-99.500000, -67.000000) translate(90.000000, 57.000000)" fill="#1A8DE6">
+                <g id="Symbol-/-Alert">
+                    <rect id="Rectangle" x="8" y="1" width="3" height="14"></rect>
+                    <rect id="Rectangle" transform="translate(9.500000, 1.500000) rotate(90.000000) translate(-9.500000, -1.500000) " x="8" y="-8" width="3" height="19"></rect>
+                    <polygon id="Triangle" transform="translate(9.500000, 15.500000) rotate(180.000000) translate(-9.500000, -15.500000) " points="9.5 11 16 20 3 20"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>svg/Team</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="20" cy="20" r="20"></circle>
+        <circle id="path-3" cx="20" cy="20" r="20"></circle>
+        <circle id="path-5" cx="20" cy="20" r="20"></circle>
+        <circle id="path-7" cx="20" cy="20" r="20"></circle>
+        <circle id="path-9" cx="20" cy="20" r="20"></circle>
+        <circle id="path-11" cx="20" cy="20" r="20"></circle>
+    </defs>
+    <g id="User-Flows" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Team">
+            <rect fill="#FFFFFF" x="0" y="0" width="200" height="200"></rect>
+            <g id="Background" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="200" height="200"></rect>
+            </g>
+            <g id="Avatar" transform="translate(20.000000, 30.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Oval" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-2)" cx="20" cy="12" r="8"></circle>
+                <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-2)" cx="20" cy="39" r="17"></circle>
+            </g>
+            <g id="Text-/-Title" transform="translate(20.000000, 74.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="40" height="6"></rect>
+            </g>
+            <g id="Text-/-Title" transform="translate(28.000000, 84.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="24" height="6"></rect>
+            </g>
+            <g id="Avatar" transform="translate(80.000000, 30.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Oval" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-4)" cx="20" cy="12" r="8"></circle>
+                <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-4)" cx="20" cy="39" r="17"></circle>
+            </g>
+            <g id="Text-/-Title" transform="translate(80.000000, 74.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="40" height="6"></rect>
+            </g>
+            <g id="Text-/-Title" transform="translate(88.000000, 84.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="24" height="6"></rect>
+            </g>
+            <g id="Avatar" transform="translate(140.000000, 30.000000)">
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Oval" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-6)" cx="20" cy="12" r="8"></circle>
+                <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-6)" cx="20" cy="39" r="17"></circle>
+            </g>
+            <g id="Text-/-Title" transform="translate(140.000000, 74.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="40" height="6"></rect>
+            </g>
+            <g id="Text-/-Title" transform="translate(148.000000, 84.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="24" height="6"></rect>
+            </g>
+            <g id="Avatar" transform="translate(20.000000, 110.000000)">
+                <mask id="mask-8" fill="white">
+                    <use xlink:href="#path-7"></use>
+                </mask>
+                <use id="Oval" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-7"></use>
+                <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-8)" cx="20" cy="12" r="8"></circle>
+                <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-8)" cx="20" cy="39" r="17"></circle>
+            </g>
+            <g id="Text-/-Title" transform="translate(20.000000, 154.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="40" height="6"></rect>
+            </g>
+            <g id="Text-/-Title" transform="translate(28.000000, 164.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="24" height="6"></rect>
+            </g>
+            <g id="Avatar" transform="translate(80.000000, 110.000000)">
+                <mask id="mask-10" fill="white">
+                    <use xlink:href="#path-9"></use>
+                </mask>
+                <use id="Oval" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-9"></use>
+                <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-10)" cx="20" cy="12" r="8"></circle>
+                <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-10)" cx="20" cy="39" r="17"></circle>
+            </g>
+            <g id="Text-/-Title" transform="translate(80.000000, 154.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="40" height="6"></rect>
+            </g>
+            <g id="Text-/-Title" transform="translate(88.000000, 164.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="24" height="6"></rect>
+            </g>
+            <g id="Avatar" transform="translate(140.000000, 110.000000)">
+                <mask id="mask-12" fill="white">
+                    <use xlink:href="#path-11"></use>
+                </mask>
+                <use id="Oval" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-11"></use>
+                <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-12)" cx="20" cy="12" r="8"></circle>
+                <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-12)" cx="20" cy="39" r="17"></circle>
+            </g>
+            <g id="Text-/-Title" transform="translate(140.000000, 154.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="40" height="6"></rect>
+            </g>
+            <g id="Text-/-Title" transform="translate(148.000000, 164.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="24" height="6"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
