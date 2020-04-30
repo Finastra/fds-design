@@ -3,6 +3,14 @@
 
 
 ## What’s new?
+
+Version 2.4
+
+**Improvement of Table component (Seperate file)**
+- Add new examples of Table
+- New symbols like sparkline , action , avatar and etc.
+- More details of explication (guideline of utilisation)
+
 Version 2.3
 
 **New Component / Stepper added to Component Library**
