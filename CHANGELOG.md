@@ -4,12 +4,12 @@
 
 ## What’s new?
 
-Version 2.4
+Version 2.3.2
 
 **Improvement of Table component (Seperate file)**
 - Add new examples of Table
 - New symbols like sparkline , action , avatar and etc.
-- More details of explication (guideline of utilisation)
+- More detailed explanations (usage guidelines)
 
 Version 2.3
 
