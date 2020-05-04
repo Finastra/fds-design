@@ -11,7 +11,7 @@ Version 2.4
 - New symbols like sparkline , action , avatar and etc.
 - More detailed explanations (usage guidelines).
 
-**New Fondation / Toggle button**
+**New Foundation / Toggle button**
 - New toggle button : Icon
 - New toggle button : Text
 - New toggle button : Icon + Text.
