@@ -1,5 +1,5 @@
 # **Finastra Design Kit**
-# **UI Library (v 2.4.0)**
+# **UI Library (v 2.4.1)**
 
 
 ## What’s new?
@@ -9,7 +9,12 @@ Version 2.4
 **Improvement of Table component (Seperate file)**
 - Add new examples of Table
 - New symbols like sparkline , action , avatar and etc.
-- More detailed explanations (usage guidelines)
+- More detailed explanations (usage guidelines).
+
+**New Fondation / Toggle button**
+- New toggle button : Icon
+- New toggle button : Text
+- New toggle button : Icon + Text.
 
 Version 2.3
 
