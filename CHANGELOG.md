@@ -1,8 +1,16 @@
 # **Finastra Design Kit**
-# **UI Library (v 2.4.1)**
+# **UI Library (v 2.5.1)**
 
 
 ## What’s new?
+
+Version 2.5
+
+**New App Starter Sketch File for Mobile Version**
+- A completed user flow from sign in to sign out 
+
+**Foundation Improvement / Switch**
+- Improve color contrast 
 
 Version 2.4
 
