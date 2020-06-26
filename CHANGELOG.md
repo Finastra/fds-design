@@ -7,7 +7,8 @@
 Version 2.6
 
 **New App Starterr Mobile kit for Adobe XD**
-- Imrove user flow by making more interactions in Adobe XD file
+- Improve user flow by making more interactions in Adobe XD file
+
 
 Version 2.5
 
