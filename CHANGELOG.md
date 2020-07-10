@@ -1,8 +1,16 @@
 # **Finastra Design Kit**
-# **UI Library (v 2.6.0)**
+# **UI Library (v 2.7.0)**
 
 
 ## What’s new?
+
+Version 2.7
+
+**New App Starter Desktop kit for Adobe XD**
+- Create XD file, simplify layers and apply new branding in the design. 
+
+**Retail app for Adobe XD**
+- Create XD file
 
 Version 2.6
 
