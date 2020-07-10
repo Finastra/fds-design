@@ -1,14 +1,21 @@
 # **Finastra Design Kit**
-# **UI Library (v 2.6.0)**
+# **UI Library (v 2.7.0)**
 
 
 ## What’s new?
 
+Version 2.7
+
+**Use case / Retail App for Adobe XD**
+- Provide XD version of Sketch retail app kit
+
+**New App Starter kit desktop for Adobe XD**
+- Provide XD version of Sketch starter kit for desktop
+
 Version 2.6
 
-**New App Starterr Mobile kit for Adobe XD**
+**New App Starter Mobile kit for Adobe XD**
 - Improve user flow by making more interactions in Adobe XD file
-
 
 Version 2.5
 
