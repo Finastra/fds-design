@@ -1,8 +1,16 @@
 # **Finastra Design Kit**
-# **UI Library (v 2.7.0)**
+# **UI Library (v 2.8.0)**
 
 
 ## What’s new?
+
+Version 2.8
+
+**Use case / Trust Machine**
+- Provide first version of XD file 
+
+**Onboarding Kit for XD**
+- Provide first version of XD file for Onboarding
 
 Version 2.7
 
