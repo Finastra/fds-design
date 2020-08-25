@@ -1,8 +1,13 @@
 # **Finastra Design Kit**
-# **UI Library (v 2.8.0)**
+# **UI Library (v 2.9.0)**
 
 
 ## What’s new?
+
+Version 2.9
+
+**Sketch UI Library kit updates**  
+- You can now use two and three line dense list items as symbols 
 
 Version 2.8
 
@@ -11,6 +16,9 @@ Version 2.8
 
 **Onboarding Kit for XD**
 - Provide first version of XD file for Onboarding
+
+**Updated color palette**
+- Provide dark shades of the primary color 
 
 Version 2.7
 
