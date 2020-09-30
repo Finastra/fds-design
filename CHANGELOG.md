@@ -4,6 +4,11 @@
 
 ## What’s new?
 
+Version 2.10
+
+**Pattern / Smart Assistant**
+- Adobe XD source file available to download
+
 Version 2.9
 
 **Foundations / Colors**
