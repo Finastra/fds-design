@@ -1,8 +1,13 @@
 # **Finastra Design Kit**
-# **UI Library (v 2.9.0)**
+# **UI Library (v 2.11.0)**
 
 
 ## What’s new?
+
+Version 2.11
+
+**Create / User flows**
+- Release an XD version of the user flows with additional patterns (checkout, dashboard, master-detail)
 
 Version 2.10
 
