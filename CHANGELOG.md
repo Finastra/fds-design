@@ -7,7 +7,6 @@
 Version 2.12
 
 **Use case / Account Services Dashboard Sketch** 
-
 - Provide Sketch dashboard template for Account Services app
 
 Version 2.11
