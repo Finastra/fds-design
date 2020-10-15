@@ -1,8 +1,13 @@
 # **Finastra Design Kit**
-# **UI Library (v 2.11.0)**
+# **UI Library (v 2.12.0)**
 
 
 ## What’s new?
+
+Version 2.12
+
+**Use case / Account Services Dashboard Sketch** 
+- Provide Sketch dashboard template for Account Services app
 
 Version 2.11
 
