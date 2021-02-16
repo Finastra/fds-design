@@ -1,8 +1,13 @@
 # **Finastra Design Kit**
-# **UI Library (v 2.12.0)**
+# **UI Library (v 3.0.0)**
 
 
 ## What’s new?
+
+Version 3.0
+
+**Adobe XD UI kit - Foundations and UI elements** 
+- Finastra branded material UI elements and Finastra foundations in Adobe XD.
 
 Version 2.12
 
