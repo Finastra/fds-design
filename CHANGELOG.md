@@ -1,12 +1,24 @@
 # **Finastra Design Kit**
-# **UI Library (v 3.0.0)**
+# **UI Library (v 2.12.0)**
+
 
 
 ## What’s new?
 
+
+Version 3.1
+
+**Adobe XD Finastra components - Light** 
+
+***Card components***
+Easily customizable card components: app card, product card, workspace card
+
+***App bar*** 
+Based on Finastra global navigation pattern, available for desktop and mobile, easy to customize and help you design consistent navigation
+
 Version 3.0
 
-**Adobe XD UI kit - Foundations and UI elements** 
+**Adobe XD UI kit - Foundations and UI elements - Light** 
 - Finastra branded material UI elements and Finastra foundations in Adobe XD.
 
 Version 2.12
