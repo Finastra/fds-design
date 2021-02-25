@@ -13,16 +13,12 @@ Version 3.1
 ***Card components***
 [Easily customizable card components: app card, product card, workspace card)](https://github.com/fusionfabric/finastra-design-kit/tree/master/02%20-%20Create/01%20-%20UI%20Kit/02%20-%20Components)
 
-![](./assets/app-bar.png)
-
-
 
 ***App bar*** 
 [Based on Finastra global navigation pattern, available for desktop and mobile, easy to customize and help you design consistent navigation)](https://github.com/fusionfabric/finastra-design-kit/tree/master/02%20-%20Create/01%20-%20UI%20Kit/02%20-%20Components)
 
-![](./assets/product-card.png)
-![](./assets/app-card.png)
-![](./assets/workspace-card.png)
+![](./assets/whats-new-3_1_0.png)
+
 
 
 Version 3.0
