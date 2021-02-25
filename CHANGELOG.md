@@ -1,12 +1,12 @@
 # **Finastra Design Kit**
-# **UI Library (v 3.0.0)**
+# **UI Library (v 3.1.0)**
 
 
 
 ## What’s new?
 
 
-Version 3.0
+Version 3.1
 
 **Adobe XD Finastra components - Light** 
 
