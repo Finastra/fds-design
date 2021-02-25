@@ -1,5 +1,5 @@
 # **Finastra Design Kit**
-# **UI Library (v 2.12.0)**
+# **UI Library (v 3.1.0)**
 
 
 
@@ -11,15 +11,29 @@ Version 3.1
 **Adobe XD Finastra components - Light** 
 
 ***Card components***
-Easily customizable card components: app card, product card, workspace card
+[Easily customizable card components: app card, product card, workspace card)](https://github.com/fusionfabric/finastra-design-kit/tree/master/02%20-%20Create/01%20-%20UI%20Kit/02%20-%20Components)
+
+![](./assets/app-bar.png)
+
+
 
 ***App bar*** 
-Based on Finastra global navigation pattern, available for desktop and mobile, easy to customize and help you design consistent navigation
+[Based on Finastra global navigation pattern, available for desktop and mobile, easy to customize and help you design consistent navigation)](https://github.com/fusionfabric/finastra-design-kit/tree/master/02%20-%20Create/01%20-%20UI%20Kit/02%20-%20Components)
+
+![](./assets/product-card.png)
+![](./assets/app-card.png)
+![](./assets/workspace-card.png)
+
 
 Version 3.0
 
 **Adobe XD UI kit - Foundations and UI elements - Light** 
-- Finastra branded material UI elements and Finastra foundations in Adobe XD.
+[Finastra branded material UI elements and Finastra foundations in Adobe XD.)](https://github.com/fusionfabric/finastra-design-kit/tree/master/02%20-%20Create/01%20-%20UI%20Kit/01%20-%20Foundations)
+
+
+![](./assets/text-fields.png)
+![](./assets/fab-buttons.png)
+![](./assets/buttons.png)
 
 Version 2.12
 
