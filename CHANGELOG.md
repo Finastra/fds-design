@@ -26,10 +26,7 @@ Version 3.0
 **Adobe XD UI kit - Foundations and UI elements - Light** 
 [Finastra branded material UI elements and Finastra foundations in Adobe XD.)](https://github.com/fusionfabric/finastra-design-kit/tree/master/02%20-%20Create/01%20-%20UI%20Kit/01%20-%20Foundations)
 
-
-![](./assets/text-fields.png)
-![](./assets/fab-buttons.png)
-![](./assets/buttons.png)
+![](./assets/whats-new-3_0_0.png)
 
 Version 2.12
 
