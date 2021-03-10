@@ -7,6 +7,7 @@
 
 Version 3.2
 **Adobe XD Finastra Foundations - Light** 
+
  [Added Finastra logo as vector asset.](https://github.com/fusionfabric/finastra-design-kit/blob/master/02%20-%20Create/01%20-%20UI%20Kit/01%20-%20Foundations/%5BLight%5D%20Finastra-Logo.xd)
  
  ![](./assets/whats-new-logo-3_2_0.png)
