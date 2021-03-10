@@ -1,10 +1,15 @@
 # **Finastra Design Kit**
-# **UI Library (v 3.1.0)**
+# **UI Library (v 3.2.0)**
 
 
 
 ## What’s new?
 
+Version 3.2
+**Adobe XD Finastra Foundations - Light** 
+ [Added Finastra logo as vector asset.](https://github.com/fusionfabric/finastra-design-kit/blob/Finastra-Logo/02%20-%20Create/01%20-%20UI%20Kit/01%20-%20Foundations/%5BLight%5D%20Finastra-Logo.xd)
+ 
+ ![](./assets/whats-new-3_2_0_logo.png)
 
 Version 3.1
 
