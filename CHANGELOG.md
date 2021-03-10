@@ -5,6 +5,13 @@
 
 ## What’s new?
 
+Version 3.3
+**Adobe XD Finastra Foundations - Light** 
+- Text Fields with label / Added dense version for all text fields
+- Text Fields with label / Fix missing label in all activated state
+- Text Fields with label / Added a “read only” state to match some user requirements 
+- Typography styles / Switch back Subtitle family font from Roboto Bold to Roboto Medium
+
 Version 3.2
 **Adobe XD Finastra Foundations - Light** 
  [Added Finastra logo as vector asset.](https://github.com/fusionfabric/finastra-design-kit/blob/Finastra-Logo/02%20-%20Create/01%20-%20UI%20Kit/01%20-%20Foundations/%5BLight%5D%20Finastra-Logo.xd)
