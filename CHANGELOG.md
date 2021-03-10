@@ -1,5 +1,5 @@
 # **Finastra Design Kit**
-# **UI Library (v 3.2.0)**
+# **UI Library (v 3.3.0)**
 
 
 
