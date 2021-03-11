@@ -1,9 +1,17 @@
 # **Finastra Design Kit**
-# **UI Library (v 3.3.0)**
+# **UI Library (v 3.4.0)**
 
 
 
 ## What’s new?
+
+Version 3.4
+**Login page Adobe XD file** 
+- XD file available with updated assets 
+
+**Global navigation Adobe XD files** 
+- Solution homepage XD file available 
+- Applications homepage XD file available
 
 Version 3.3
 **Adobe XD Finastra Foundations - Light** 
