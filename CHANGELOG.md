@@ -6,11 +6,9 @@
 ## What’s new?
 
 Version 3.5
-**What's new page of Design system** 
-- New design of what's new page
 
-**Application page Adobe XD file** 
-- XD file available / Updated assets
+**App starter kit updates** 
+- Updating with latest components for faster customization
 
 Version 3.4
 **Login page Adobe XD file** 
