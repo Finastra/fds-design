@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>svg/line chart</title>
+    <desc>Created with Sketch.</desc>
+    <g id="User-Flows" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="line-chart">
+            <rect fill="#FFFFFF" x="0" y="0" width="200" height="200"></rect>
+            <g id="Background" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="200" height="200"></rect>
+            </g>
+            <rect id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" x="20" y="23" width="160" height="128"></rect>
+            <path d="M19.9988074,56.4121828 C37.9118628,56.4121828 37.0976888,98.0740032 59.0914002,98.0740032 C81.0851117,98.0740032 84.835248,73.9264511 102.439487,73.9264511 C120.043726,73.9264511 121.859495,113.381266 140.548833,113.381266 C159.238172,113.381266 169.510828,40.8591103 180.000002,40.9258541 C179.984409,43.9545566 180.000002,40.0139747 180.000002,42.9263416 C171.902383,42.9263416 160.363167,115.381266 140.548833,115.381266 C119.290758,115.381266 119.290758,75.9264511 102.439487,75.9264511 C85.5882157,75.9264511 82.1828736,100.074003 59.0914002,100.074003 C36.6279989,100.074003 34.9316254,58.4121828 19.9988074,58.4121828 C20.0055084,57.0000153 19.9988074,57.9990845 19.9988074,56.4121828 Z" id="Path" fill="#1A8DE6"></path>
+            <path d="M20,72.4863287 C37.9130554,72.4863287 37.0988814,91.1481491 59.0925928,91.1481491 C81.0863042,91.1481491 84.8364406,83.000597 102.440679,83.000597 C120.044918,83.000597 121.860688,102.455412 140.550026,102.455412 C159.239364,102.455412 169.512021,71.9332562 180.001195,72.0003766 C179.985601,75.0287025 180.001195,71.0881205 180.001195,74.0004875 C171.903576,74.0004875 160.364359,104.455412 140.550026,104.455412 C119.291951,104.455412 119.291951,85.000597 102.440679,85.000597 C85.5894082,85.000597 82.1840662,93.1481491 59.0925928,93.1481491 C36.6291914,93.1481491 34.932818,74.4863287 20,74.4863287 C20.006701,73.0741611 20,74.0732304 20,72.4863287 Z" id="Path" fill-opacity="0.25" fill="#1A8DE6"></path>
+            <rect id="Rectangle" fill-opacity="0.25" fill="#1A8DE6" x="59" y="24" width="1" height="126"></rect>
+            <rect id="Rectangle" fill-opacity="0.25" fill="#1A8DE6" x="102" y="24" width="1" height="126"></rect>
+            <rect id="Rectangle" fill-opacity="0.25" fill="#1A8DE6" x="141" y="24" width="1" height="126"></rect>
+            <rect id="Rectangle" fill-opacity="0.25" fill="#1A8DE6" transform="translate(100.000000, 150.500000) rotate(90.000000) translate(-100.000000, -150.500000) " x="99.5" y="71.5" width="1" height="158"></rect>
+            <rect id="Rectangle" fill-opacity="0.25" fill="#1A8DE6" transform="translate(100.000000, 23.500000) rotate(90.000000) translate(-100.000000, -23.500000) " x="99.5" y="-55.5" width="1" height="158"></rect>
+            <rect id="Rectangle" fill-opacity="0.25" fill="#1A8DE6" x="179" y="23" width="1" height="128"></rect>
+            <rect id="Rectangle" fill-opacity="0.25" fill="#1A8DE6" x="20" y="23" width="1" height="128"></rect>
+            <circle id="Oval" fill="#1A8DE6" cx="59.5" cy="99.5" r="4.5"></circle>
+            <circle id="Oval" fill="#1A8DE6" cx="102.5" cy="75.5" r="4.5"></circle>
+            <circle id="Oval" fill="#1A8DE6" cx="141.5" cy="114.5" r="4.5"></circle>
+            <g id="Text-/-Title" transform="translate(45.000000, 166.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="28" height="6"></rect>
+            </g>
+            <g id="Text-/-Title" transform="translate(89.000000, 166.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="28" height="6"></rect>
+            </g>
+            <g id="Text-/-Title" transform="translate(128.000000, 166.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="28" height="6"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

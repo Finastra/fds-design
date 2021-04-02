@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>svg/Compare</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="57" height="46"></rect>
+        <rect id="path-3" x="0" y="0" width="57" height="46"></rect>
+    </defs>
+    <g id="User-Flows" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Compare">
+            <rect fill="#FFFFFF" x="0" y="0" width="200" height="200"></rect>
+            <g id="Background" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="200" height="200"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(68.000000, 86.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="57" height="4"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(68.000000, 93.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="57" height="4"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(68.000000, 100.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="57" height="4"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(68.000000, 107.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="44" height="4"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(68.000000, 162.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="55" height="4"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(68.000000, 169.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="55" height="4"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(68.000000, 176.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="55" height="4"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(68.000000, 183.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="44" height="4"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(133.000000, 162.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="55" height="4"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(133.000000, 169.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="55" height="4"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(133.000000, 176.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="55" height="4"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(133.000000, 183.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="44" height="4"></rect>
+            </g>
+            <g id="Image" transform="translate(68.000000, 12.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-2)" cx="20.9791667" cy="10" r="4"></circle>
+                <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-2)" points="12.46875 21 43.9375 58 -19 58"></polygon>
+                <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-2)" points="39.3854167 9 70.8541667 46 7.91666667 46"></polygon>
+            </g>
+            <g id="Text-/-Title" transform="translate(68.000000, 66.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="57" height="6"></rect>
+            </g>
+            <g id="Text-/-Title" transform="translate(11.000000, 86.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="47" height="6"></rect>
+            </g>
+            <g id="Text-/-Title" transform="translate(11.000000, 124.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="47" height="6"></rect>
+            </g>
+            <g id="Text-/-Title" transform="translate(11.000000, 162.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="47" height="6"></rect>
+            </g>
+            <g id="Text-/-Title" transform="translate(133.000000, 66.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="57" height="6"></rect>
+            </g>
+            <g id="Image" transform="translate(133.000000, 12.000000)">
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <use id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-3"></use>
+                <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-4)" cx="20.9791667" cy="10" r="4"></circle>
+                <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-4)" points="12.46875 21 43.9375 58 -19 58"></polygon>
+                <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-4)" points="39.3854167 9 70.8541667 46 7.91666667 46"></polygon>
+            </g>
+            <g id="Text-/-Text" transform="translate(133.000000, 86.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="57" height="4"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(133.000000, 93.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="57" height="4"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(133.000000, 100.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="57" height="4"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(133.000000, 107.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="44" height="4"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(68.000000, 124.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="57" height="4"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(68.000000, 131.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="57" height="4"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(68.000000, 138.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="57" height="4"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(68.000000, 145.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="44" height="4"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(133.000000, 124.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="57" height="4"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(133.000000, 131.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="57" height="4"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(133.000000, 138.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="57" height="4"></rect>
+            </g>
+            <g id="Text-/-Text" transform="translate(133.000000, 145.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="44" height="4"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

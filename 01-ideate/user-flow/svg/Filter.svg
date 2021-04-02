@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>svg/Filter</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="32" height="34" rx="4"></rect>
+        <rect id="path-3" x="0" y="0" width="32" height="22.2040816"></rect>
+        <rect id="path-5" x="0" y="0" width="32" height="34" rx="4"></rect>
+        <rect id="path-7" x="0" y="0" width="32" height="22.2040816"></rect>
+        <rect id="path-9" x="0" y="0" width="32" height="34" rx="4"></rect>
+        <rect id="path-11" x="0" y="0" width="32" height="22.2040816"></rect>
+        <rect id="path-13" x="0" y="0" width="32" height="34" rx="4"></rect>
+        <rect id="path-15" x="0" y="0" width="32" height="22.2040816"></rect>
+        <rect id="path-17" x="0" y="0" width="32" height="34" rx="4"></rect>
+        <rect id="path-19" x="0" y="0" width="32" height="22.2040816"></rect>
+        <rect id="path-21" x="0" y="0" width="32" height="34" rx="4"></rect>
+        <rect id="path-23" x="0" y="0" width="32" height="22.2040816"></rect>
+        <rect id="path-25" x="0" y="0" width="32" height="34" rx="4"></rect>
+        <rect id="path-27" x="0" y="0" width="32" height="22.2040816"></rect>
+        <rect id="path-29" x="0" y="0" width="32" height="34" rx="4"></rect>
+        <rect id="path-31" x="0" y="0" width="32" height="22.2040816"></rect>
+        <rect id="path-33" x="0" y="0" width="32" height="34" rx="4"></rect>
+        <rect id="path-35" x="0" y="0" width="32" height="22.2040816"></rect>
+        <rect id="path-37" x="0" y="0" width="32" height="34" rx="4"></rect>
+        <rect id="path-39" x="0" y="0" width="32" height="22.2040816"></rect>
+    </defs>
+    <g id="User-Flows" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Filter">
+            <rect fill="#FFFFFF" x="0" y="0" width="200" height="200"></rect>
+            <g id="Background" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="200" height="200"></rect>
+            </g>
+            <rect id="Rectangle" fill-opacity="0.25" fill="#1A8DE6" x="10" y="9" width="59" height="181" rx="2"></rect>
+            <g id="Text-/-Title" transform="translate(15.000000, 55.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="37" height="6"></rect>
+            </g>
+            <g id="Input-/-Select" transform="translate(15.000000, 69.000000)">
+                <g id="Input-/-Text">
+                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="49" height="12" rx="1"></rect>
+                    <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="0" y="11" width="49" height="1"></rect>
+                </g>
+                <g id="Text-/-Text" transform="translate(1.934211, 4.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                    <rect id="Rectangle" x="0" y="0" width="28.3684211" height="4"></rect>
+                </g>
+                <polygon id="Triangle" fill="#1A8DE6" transform="translate(42.500000, 5.500000) rotate(180.000000) translate(-42.500000, -5.500000) " points="42.5 4 45 7 40 7"></polygon>
+            </g>
+            <g id="Input-/-Select" transform="translate(15.000000, 88.000000)">
+                <g id="Input-/-Text">
+                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="49" height="12" rx="1"></rect>
+                    <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="0" y="11" width="49" height="1"></rect>
+                </g>
+                <g id="Text-/-Text" transform="translate(1.934211, 4.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                    <rect id="Rectangle" x="0" y="0" width="28.3684211" height="4"></rect>
+                </g>
+                <polygon id="Triangle" fill="#1A8DE6" transform="translate(42.500000, 5.500000) rotate(180.000000) translate(-42.500000, -5.500000) " points="42.5 4 45 7 40 7"></polygon>
+            </g>
+            <g id="Input-/-Select" transform="translate(15.000000, 107.000000)">
+                <g id="Input-/-Text">
+                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="49" height="12" rx="1"></rect>
+                    <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="0" y="11" width="49" height="1"></rect>
+                </g>
+                <g id="Text-/-Text" transform="translate(1.934211, 4.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                    <rect id="Rectangle" x="0" y="0" width="28.3684211" height="4"></rect>
+                </g>
+                <polygon id="Triangle" fill="#1A8DE6" transform="translate(42.500000, 5.500000) rotate(180.000000) translate(-42.500000, -5.500000) " points="42.5 4 45 7 40 7"></polygon>
+            </g>
+            <g id="Input-/-Select" transform="translate(15.000000, 125.000000)">
+                <g id="Input-/-Text">
+                    <rect id="Rectangle" fill="#FFFFFF" x="0" y="0" width="49" height="12" rx="1"></rect>
+                    <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="0" y="11" width="49" height="1"></rect>
+                </g>
+                <g id="Text-/-Text" transform="translate(1.934211, 4.000000)" fill="#1A8DE6" fill-opacity="0.1">
+                    <rect id="Rectangle" x="0" y="0" width="28.3684211" height="4"></rect>
+                </g>
+                <polygon id="Triangle" fill="#1A8DE6" transform="translate(42.500000, 5.500000) rotate(180.000000) translate(-42.500000, -5.500000) " points="42.5 4 45 7 40 7"></polygon>
+            </g>
+            <g id="Button" transform="translate(15.000000, 174.000000)" fill="#1A8DE6" fill-opacity="0.5">
+                <rect id="Rectangle" x="0" y="0" width="49" height="10" rx="2"></rect>
+            </g>
+            <g id="Card" transform="translate(77.000000, 9.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-2)" x="0" y="22.2040816" width="32" height="11.7959184"></rect>
+                <g id="Image" mask="url(#mask-2)">
+                    <mask id="mask-4" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <use id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-4)" cx="11.7777778" cy="4.82697427" r="4"></circle>
+                    <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-4)" points="7 10.136646 24.6666667 27.9964508 -10.6666667 27.9964508"></polygon>
+                    <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-4)" points="22.1111111 4.34427684 39.7777778 22.2040816 4.44444444 22.2040816"></polygon>
+                </g>
+                <g id="Text-/-Title" mask="url(#mask-2)" fill="#1A8DE6" fill-opacity="0.25" fill-rule="evenodd">
+                    <g transform="translate(3.478261, 25.673469)" id="Rectangle">
+                        <rect x="0" y="0" width="25.0434783" height="4.16326531"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Card" transform="translate(113.000000, 9.000000)">
+                <mask id="mask-6" fill="white">
+                    <use xlink:href="#path-5"></use>
+                </mask>
+                <use id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-5"></use>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-6)" x="0" y="22.2040816" width="32" height="11.7959184"></rect>
+                <g id="Image" mask="url(#mask-6)">
+                    <mask id="mask-8" fill="white">
+                        <use xlink:href="#path-7"></use>
+                    </mask>
+                    <use id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-8)" cx="11.7777778" cy="4.82697427" r="4"></circle>
+                    <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-8)" points="7 10.136646 24.6666667 27.9964508 -10.6666667 27.9964508"></polygon>
+                    <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-8)" points="22.1111111 4.34427684 39.7777778 22.2040816 4.44444444 22.2040816"></polygon>
+                </g>
+                <g id="Text-/-Title" mask="url(#mask-6)" fill="#1A8DE6" fill-opacity="0.25" fill-rule="evenodd">
+                    <g transform="translate(3.478261, 25.673469)" id="Rectangle">
+                        <rect x="0" y="0" width="25.0434783" height="4.16326531"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Card" transform="translate(149.000000, 9.000000)">
+                <mask id="mask-10" fill="white">
+                    <use xlink:href="#path-9"></use>
+                </mask>
+                <use id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-9"></use>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-10)" x="0" y="22.2040816" width="32" height="11.7959184"></rect>
+                <g id="Image" mask="url(#mask-10)">
+                    <mask id="mask-12" fill="white">
+                        <use xlink:href="#path-11"></use>
+                    </mask>
+                    <use id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-11"></use>
+                    <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-12)" cx="11.7777778" cy="4.82697427" r="4"></circle>
+                    <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-12)" points="7 10.136646 24.6666667 27.9964508 -10.6666667 27.9964508"></polygon>
+                    <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-12)" points="22.1111111 4.34427684 39.7777778 22.2040816 4.44444444 22.2040816"></polygon>
+                </g>
+                <g id="Text-/-Title" mask="url(#mask-10)" fill="#1A8DE6" fill-opacity="0.25" fill-rule="evenodd">
+                    <g transform="translate(3.478261, 25.673469)" id="Rectangle">
+                        <rect x="0" y="0" width="25.0434783" height="4.16326531"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Card" transform="translate(77.000000, 51.000000)">
+                <mask id="mask-14" fill="white">
+                    <use xlink:href="#path-13"></use>
+                </mask>
+                <use id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-13"></use>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-14)" x="0" y="22.2040816" width="32" height="11.7959184"></rect>
+                <g id="Image" mask="url(#mask-14)">
+                    <mask id="mask-16" fill="white">
+                        <use xlink:href="#path-15"></use>
+                    </mask>
+                    <use id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-15"></use>
+                    <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-16)" cx="11.7777778" cy="4.82697427" r="4"></circle>
+                    <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-16)" points="7 10.136646 24.6666667 27.9964508 -10.6666667 27.9964508"></polygon>
+                    <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-16)" points="22.1111111 4.34427684 39.7777778 22.2040816 4.44444444 22.2040816"></polygon>
+                </g>
+                <g id="Text-/-Title" mask="url(#mask-14)" fill="#1A8DE6" fill-opacity="0.25" fill-rule="evenodd">
+                    <g transform="translate(3.478261, 25.673469)" id="Rectangle">
+                        <rect x="0" y="0" width="25.0434783" height="4.16326531"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Card" transform="translate(113.000000, 51.000000)">
+                <mask id="mask-18" fill="white">
+                    <use xlink:href="#path-17"></use>
+                </mask>
+                <use id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-17"></use>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-18)" x="0" y="22.2040816" width="32" height="11.7959184"></rect>
+                <g id="Image" mask="url(#mask-18)">
+                    <mask id="mask-20" fill="white">
+                        <use xlink:href="#path-19"></use>
+                    </mask>
+                    <use id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-19"></use>
+                    <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-20)" cx="11.7777778" cy="4.82697427" r="4"></circle>
+                    <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-20)" points="7 10.136646 24.6666667 27.9964508 -10.6666667 27.9964508"></polygon>
+                    <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-20)" points="22.1111111 4.34427684 39.7777778 22.2040816 4.44444444 22.2040816"></polygon>
+                </g>
+                <g id="Text-/-Title" mask="url(#mask-18)" fill="#1A8DE6" fill-opacity="0.25" fill-rule="evenodd">
+                    <g transform="translate(3.478261, 25.673469)" id="Rectangle">
+                        <rect x="0" y="0" width="25.0434783" height="4.16326531"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Card" transform="translate(149.000000, 51.000000)">
+                <mask id="mask-22" fill="white">
+                    <use xlink:href="#path-21"></use>
+                </mask>
+                <use id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-21"></use>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-22)" x="0" y="22.2040816" width="32" height="11.7959184"></rect>
+                <g id="Image" mask="url(#mask-22)">
+                    <mask id="mask-24" fill="white">
+                        <use xlink:href="#path-23"></use>
+                    </mask>
+                    <use id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-23"></use>
+                    <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-24)" cx="11.7777778" cy="4.82697427" r="4"></circle>
+                    <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-24)" points="7 10.136646 24.6666667 27.9964508 -10.6666667 27.9964508"></polygon>
+                    <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-24)" points="22.1111111 4.34427684 39.7777778 22.2040816 4.44444444 22.2040816"></polygon>
+                </g>
+                <g id="Text-/-Title" mask="url(#mask-22)" fill="#1A8DE6" fill-opacity="0.25" fill-rule="evenodd">
+                    <g transform="translate(3.478261, 25.673469)" id="Rectangle">
+                        <rect x="0" y="0" width="25.0434783" height="4.16326531"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Card" transform="translate(77.000000, 93.000000)">
+                <mask id="mask-26" fill="white">
+                    <use xlink:href="#path-25"></use>
+                </mask>
+                <use id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-25"></use>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-26)" x="0" y="22.2040816" width="32" height="11.7959184"></rect>
+                <g id="Image" mask="url(#mask-26)">
+                    <mask id="mask-28" fill="white">
+                        <use xlink:href="#path-27"></use>
+                    </mask>
+                    <use id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-27"></use>
+                    <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-28)" cx="11.7777778" cy="4.82697427" r="4"></circle>
+                    <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-28)" points="7 10.136646 24.6666667 27.9964508 -10.6666667 27.9964508"></polygon>
+                    <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-28)" points="22.1111111 4.34427684 39.7777778 22.2040816 4.44444444 22.2040816"></polygon>
+                </g>
+                <g id="Text-/-Title" mask="url(#mask-26)" fill="#1A8DE6" fill-opacity="0.25" fill-rule="evenodd">
+                    <g transform="translate(3.478261, 25.673469)" id="Rectangle">
+                        <rect x="0" y="0" width="25.0434783" height="4.16326531"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Card" transform="translate(77.000000, 135.000000)">
+                <mask id="mask-30" fill="white">
+                    <use xlink:href="#path-29"></use>
+                </mask>
+                <use id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-29"></use>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-30)" x="0" y="22.2040816" width="32" height="11.7959184"></rect>
+                <g id="Image" mask="url(#mask-30)">
+                    <mask id="mask-32" fill="white">
+                        <use xlink:href="#path-31"></use>
+                    </mask>
+                    <use id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-31"></use>
+                    <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-32)" cx="11.7777778" cy="4.82697427" r="4"></circle>
+                    <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-32)" points="7 10.136646 24.6666667 27.9964508 -10.6666667 27.9964508"></polygon>
+                    <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-32)" points="22.1111111 4.34427684 39.7777778 22.2040816 4.44444444 22.2040816"></polygon>
+                </g>
+                <g id="Text-/-Title" mask="url(#mask-30)" fill="#1A8DE6" fill-opacity="0.25" fill-rule="evenodd">
+                    <g transform="translate(3.478261, 25.673469)" id="Rectangle">
+                        <rect x="0" y="0" width="25.0434783" height="4.16326531"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Card" transform="translate(113.000000, 93.000000)">
+                <mask id="mask-34" fill="white">
+                    <use xlink:href="#path-33"></use>
+                </mask>
+                <use id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-33"></use>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-34)" x="0" y="22.2040816" width="32" height="11.7959184"></rect>
+                <g id="Image" mask="url(#mask-34)">
+                    <mask id="mask-36" fill="white">
+                        <use xlink:href="#path-35"></use>
+                    </mask>
+                    <use id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-35"></use>
+                    <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-36)" cx="11.7777778" cy="4.82697427" r="4"></circle>
+                    <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-36)" points="7 10.136646 24.6666667 27.9964508 -10.6666667 27.9964508"></polygon>
+                    <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-36)" points="22.1111111 4.34427684 39.7777778 22.2040816 4.44444444 22.2040816"></polygon>
+                </g>
+                <g id="Text-/-Title" mask="url(#mask-34)" fill="#1A8DE6" fill-opacity="0.25" fill-rule="evenodd">
+                    <g transform="translate(3.478261, 25.673469)" id="Rectangle">
+                        <rect x="0" y="0" width="25.0434783" height="4.16326531"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Card" transform="translate(149.000000, 93.000000)">
+                <mask id="mask-38" fill="white">
+                    <use xlink:href="#path-37"></use>
+                </mask>
+                <use id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-37"></use>
+                <rect id="Rectangle" fill="#FFFFFF" fill-rule="evenodd" mask="url(#mask-38)" x="0" y="22.2040816" width="32" height="11.7959184"></rect>
+                <g id="Image" mask="url(#mask-38)">
+                    <mask id="mask-40" fill="white">
+                        <use xlink:href="#path-39"></use>
+                    </mask>
+                    <use id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" xlink:href="#path-39"></use>
+                    <circle id="Oval" fill-opacity="0.5" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-40)" cx="11.7777778" cy="4.82697427" r="4"></circle>
+                    <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-40)" points="7 10.136646 24.6666667 27.9964508 -10.6666667 27.9964508"></polygon>
+                    <polygon id="Triangle" fill-opacity="0.1" fill="#1A8DE6" fill-rule="evenodd" mask="url(#mask-40)" points="22.1111111 4.34427684 39.7777778 22.2040816 4.44444444 22.2040816"></polygon>
+                </g>
+                <g id="Text-/-Title" mask="url(#mask-38)" fill="#1A8DE6" fill-opacity="0.25" fill-rule="evenodd">
+                    <g transform="translate(3.478261, 25.673469)" id="Rectangle">
+                        <rect x="0" y="0" width="25.0434783" height="4.16326531"></rect>
+                    </g>
+                </g>
+            </g>
+            <g id="Symbol-/-Filter" transform="translate(28.000000, 20.000000)" fill="#1A8DE6">
+                <polygon id="Triangle" transform="translate(11.500000, 6.500000) rotate(180.000000) translate(-11.500000, -6.500000) " points="11.5 0 23 13 0 13"></polygon>
+                <polygon id="Rectangle" points="9 9 14 9 14 18.9867117 9 21"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
