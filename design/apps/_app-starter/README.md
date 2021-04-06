@@ -1,4 +1,4 @@
-![Image Finastra App Starter Kit](/02-design/apps/_app-starter/starter_thumb.jpg)
+![Image Finastra App Starter Kit](/design/apps/_app-starter/starter_thumb.jpg)
 ## App Starter
 
 Here you will find mobile and desktop versions of our starter kits.
