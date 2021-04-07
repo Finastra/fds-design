@@ -1,9 +1,14 @@
 # **Finastra Design Kit**
-# **UI Library (v 3.4.0)**
+# **UI Library (v 3.5.0)**
 
 
 
 ## What’s new?
+
+Version 3.5
+
+**App starter kit updates** 
+- Updating with latest components for faster customization
 
 Version 3.4
 **Login page Adobe XD file** 
