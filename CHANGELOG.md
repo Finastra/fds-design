@@ -7,7 +7,9 @@
 
 Version 3.6
 
-**Foundations XD updates with a brand new Nav Drawer** 
+**Nav Drawer added to Foundations & UI elements** 
+
+Extending the [ [Light] Foundations.xd](https://github.com/Finastra/finastra-design-kit/raw/master/02%20-%20Create/01%20-%20UI%20Kit/01%20-%20Foundations/%5BLight%5D%20Foundations.xd) with a *nav drawer*: 
 - Nav Drawer / new elements for “Header”
 - Nav Drawer / new elements for “List” (standard & large)
 - Nav Drawer / new elements for “Title”
@@ -24,6 +26,11 @@ Version 3.6
 - Updating design with the filter on website Fusion Store
 - Changing height of lists
 - Regrouping elements 
+
+**Persona template**
+-  [New persona template](https://github.com/Finastra/finastra-design-kit/tree/master/01%20-%20Plan%20%26%20Ideate/01%20-%20Persona)
+- Sample designer and developer persona
+- Available for Adobe XD
 
 Version 3.5
 
