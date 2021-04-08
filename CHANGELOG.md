@@ -22,10 +22,12 @@ Extending the [ [Light] Foundations.xd](https://github.com/Finastra/finastra-des
 - Nav Drawer / Side version / added sticky footer, divider and subtitle elements
 
 **Filter Adobe XD file - V1**
-- Updating filter with latest foundations and components
-- Updating design with the filter on website Fusion Store
-- Changing height of lists
-- Regrouping elements 
+[Filter assets](https://github.com/Finastra/finastra-design-kit/raw/master/02%20-%20Create/01%20-%20UI%20Kit/02%20-%20Components/%5BLight%5D%20Filter.xd) include now an Adobe XD version with:
+
+- latest foundations and components
+- including use cases uses from FusionFabric.cloud
+- Adjustable list height
+- Better elements regrouping
 
 **Persona template**
 -  [New persona template](https://github.com/Finastra/finastra-design-kit/tree/master/01%20-%20Plan%20%26%20Ideate/01%20-%20Persona)
