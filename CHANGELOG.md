@@ -1,5 +1,5 @@
 # **Finastra Design Kit**
-# **UI Library (v 3.5.0)**
+# **UI Library (v 3.6.0)**
 
 
 
@@ -18,6 +18,12 @@ Version 3.6
 - Nav Drawer / new component “Nav Drawer / Bottom / Scrolled” 
 - Nav Drawer / optimisation for responsive resize and elements stacking
 - Nav Drawer / Side version / added sticky footer, divider and subtitle elements
+
+**Filter Adobe XD file - V1**
+- Updating filter with latest foundations and components
+- Updating design with the filter on website Fusion Store
+- Changing height of lists
+- Regrouping elements 
 
 Version 3.5
 
