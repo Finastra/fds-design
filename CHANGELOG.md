@@ -5,6 +5,20 @@
 
 ## What’s new?
 
+Version 3.6
+
+**Foundations XD updates with a brand new Nav Drawer** 
+- Nav Drawer / new elements for “Header”
+- Nav Drawer / new elements for “List” (standard & large)
+- Nav Drawer / new elements for “Title”
+- Nav Drawer / new elements for “Subtitle”
+- Nav Drawer / new component “Nav Drawer / Side / Resting” 
+- Nav Drawer / new component “Nav Drawer / Side / Scrolled” 
+- Nav Drawer / new component “Nav Drawer / Bottom / Resting” 
+- Nav Drawer / new component “Nav Drawer / Bottom / Scrolled” 
+- Nav Drawer / optimisation for responsive resize and elements stacking
+- Nav Drawer / Side version / added sticky footer, divider and subtitle elements
+
 Version 3.5
 
 **App starter kit updates** 
