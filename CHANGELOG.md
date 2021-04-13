@@ -23,7 +23,7 @@ Version 3.3
 Version 3.2
 **Adobe XD Finastra Foundations - Light** 
 
- [Added Finastra logo as vector asset.](https://github.com/finastra/finastra-design-kit/blob/master/02%20-%20Create/01%20-%20UI%20Kit/01%20-%20Foundations/%5BLight%5D%20Finastra-Logo.xd)
+ [Added Finastra logo as vector asset.](https://github.com/finastra/finastra-design-kit/blob/master/design/foundations/logo/finastra-logo.xd)
  
  ![](.github/assets/whats-new-logo-3_2_0.png)
 
@@ -32,11 +32,11 @@ Version 3.1
 **Adobe XD Finastra components - Light** 
 
 ***Card components***
-[Easily customizable card components: app card, product card, workspace card)](https://github.com/finastra/finastra-design-kit/tree/master/02%20-%20Create/01%20-%20UI%20Kit/02%20-%20Components)
+[Easily customizable card components: app card, product card, workspace card)](https://github.com/finastra/finastra-design-kit/tree/master/design/components/)
 
 
 ***App bar*** 
-[Based on Finastra global navigation pattern, available for desktop and mobile, easy to customize and help you design consistent navigation)](https://github.com/finastra/finastra-design-kit/tree/master/02%20-%20Create/01%20-%20UI%20Kit/02%20-%20Components)
+[Based on Finastra global navigation pattern, available for desktop and mobile, easy to customize and help you design consistent navigation)](https://github.com/finastra/finastra-design-kit/tree/master/design/components/app-bar/)
 
 ![](.github/assets/whats-new-3_1_0.png)
 
@@ -45,7 +45,7 @@ Version 3.1
 Version 3.0
 
 **Adobe XD UI kit - Foundations and UI elements - Light** 
-[Finastra branded material UI elements and Finastra foundations in Adobe XD.)](https://github.com/finastra/finastra-design-kit/tree/master/02%20-%20Create/01%20-%20UI%20Kit/01%20-%20Foundations)
+[Finastra branded material UI elements and Finastra foundations in Adobe XD.)](https://github.com/finastra/finastra-design-kit/tree/master/design/foundations/)
 
 ![](.github/assets/whats-new-3_0_0.png)
 
