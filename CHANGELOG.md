@@ -1,9 +1,44 @@
 # **Finastra Design Kit**
-# **UI Library (v 3.4.0)**
+# **UI Library (v 3.6.0)**
 
 
 
 ## What’s new?
+
+Version 3.6
+
+**Nav Drawer added to Foundations & UI elements** 
+
+Extending the [foundations.xd](https://github.com/Finastra/finastra-design-kit/raw/master/design/foundations/foundations.xd) with a *nav drawer*: 
+- Nav Drawer / new elements for “Header”
+- Nav Drawer / new elements for “List” (standard & large)
+- Nav Drawer / new elements for “Title”
+- Nav Drawer / new elements for “Subtitle”
+- Nav Drawer / new component “Nav Drawer / Side / Resting” 
+- Nav Drawer / new component “Nav Drawer / Side / Scrolled” 
+- Nav Drawer / new component “Nav Drawer / Bottom / Resting” 
+- Nav Drawer / new component “Nav Drawer / Bottom / Scrolled” 
+- Nav Drawer / optimisation for responsive resize and elements stacking
+- Nav Drawer / Side version / added sticky footer, divider and subtitle elements
+
+**Filter Adobe XD file - V1**
+
+[Filter assets](https://github.com/Finastra/finastra-design-kit/raw/master/design/components/filter/filter.xd) include now an Adobe XD version with:
+
+- latest foundations and components
+- including use cases uses from FusionFabric.cloud
+- Adjustable list height
+- Better elements regrouping
+
+**Persona template**
+-  [New persona template](https://github.com/Finastra/finastra-design-kit/tree/master/ideate/persona)
+- Sample designer and developer persona
+- Available for Adobe XD
+
+Version 3.5
+
+**App starter kit updates** 
+- Updating with latest components for faster customization
 
 Version 3.4
 **Login page Adobe XD file** 
