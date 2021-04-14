@@ -46,7 +46,7 @@ Let’s give a try to the [App Starter](/design/apps/app-starter/) which include
 - Apps Page
 - Empty Dashboard
 
-And/or give a look to other screens from [the patterns folder](desing/patterns/).
+And/or give a look to other screens from [the patterns folder](design/patterns/).
 
 
 ### Having questions?
