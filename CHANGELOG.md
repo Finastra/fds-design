@@ -9,7 +9,7 @@ Version 3.6
 
 **Nav Drawer added to Foundations & UI elements** 
 
-Extending the [ [Light] Foundations.xd](https://github.com/Finastra/finastra-design-kit/raw/master/02%20-%20Create/01%20-%20UI%20Kit/01%20-%20Foundations/%5BLight%5D%20Foundations.xd) with a *nav drawer*: 
+Extending the [foundations.xd](https://github.com/Finastra/finastra-design-kit/raw/master/design/foundations/foundations.xd) with a *nav drawer*: 
 - Nav Drawer / new elements for “Header”
 - Nav Drawer / new elements for “List” (standard & large)
 - Nav Drawer / new elements for “Title”
@@ -23,7 +23,7 @@ Extending the [ [Light] Foundations.xd](https://github.com/Finastra/finastra-des
 
 **Filter Adobe XD file - V1**
 
-[Filter assets](https://github.com/Finastra/finastra-design-kit/raw/master/02%20-%20Create/01%20-%20UI%20Kit/02%20-%20Components/%5BLight%5D%20Filter.xd) include now an Adobe XD version with:
+[Filter assets](https://github.com/Finastra/finastra-design-kit/raw/master/design/components/filter/filter.xd) include now an Adobe XD version with:
 
 - latest foundations and components
 - including use cases uses from FusionFabric.cloud
@@ -31,7 +31,7 @@ Extending the [ [Light] Foundations.xd](https://github.com/Finastra/finastra-des
 - Better elements regrouping
 
 **Persona template**
--  [New persona template](https://github.com/Finastra/finastra-design-kit/tree/master/01%20-%20Plan%20%26%20Ideate/01%20-%20Persona)
+-  [New persona template](https://github.com/Finastra/finastra-design-kit/tree/master/ideate/persona)
 - Sample designer and developer persona
 - Available for Adobe XD
 
@@ -58,31 +58,31 @@ Version 3.3
 Version 3.2
 **Adobe XD Finastra Foundations - Light** 
 
- [Added Finastra logo as vector asset.](https://github.com/fusionfabric/finastra-design-kit/blob/master/02%20-%20Create/01%20-%20UI%20Kit/01%20-%20Foundations/%5BLight%5D%20Finastra-Logo.xd)
+ [Added Finastra logo as vector asset.](https://github.com/finastra/finastra-design-kit/blob/master/design/foundations/logo/finastra-logo.xd)
  
- ![](./assets/whats-new-logo-3_2_0.png)
+ ![](.github/assets/whats-new-logo-3_2_0.png)
 
 Version 3.1
 
 **Adobe XD Finastra components - Light** 
 
 ***Card components***
-[Easily customizable card components: app card, product card, workspace card)](https://github.com/fusionfabric/finastra-design-kit/tree/master/02%20-%20Create/01%20-%20UI%20Kit/02%20-%20Components)
+[Easily customizable card components: app card, product card, workspace card)](https://github.com/finastra/finastra-design-kit/tree/master/design/components/)
 
 
 ***App bar*** 
-[Based on Finastra global navigation pattern, available for desktop and mobile, easy to customize and help you design consistent navigation)](https://github.com/fusionfabric/finastra-design-kit/tree/master/02%20-%20Create/01%20-%20UI%20Kit/02%20-%20Components)
+[Based on Finastra global navigation pattern, available for desktop and mobile, easy to customize and help you design consistent navigation)](https://github.com/finastra/finastra-design-kit/tree/master/design/components/app-bar/)
 
-![](./assets/whats-new-3_1_0.png)
+![](.github/assets/whats-new-3_1_0.png)
 
 
 
 Version 3.0
 
 **Adobe XD UI kit - Foundations and UI elements - Light** 
-[Finastra branded material UI elements and Finastra foundations in Adobe XD.)](https://github.com/fusionfabric/finastra-design-kit/tree/master/02%20-%20Create/01%20-%20UI%20Kit/01%20-%20Foundations)
+[Finastra branded material UI elements and Finastra foundations in Adobe XD.)](https://github.com/finastra/finastra-design-kit/tree/master/design/foundations/)
 
-![](./assets/whats-new-3_0_0.png)
+![](.github/assets/whats-new-3_0_0.png)
 
 Version 2.12
 

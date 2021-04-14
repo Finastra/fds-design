@@ -5,10 +5,10 @@ Here you will find design assets to help you design application with consistent 
 
 ### Plan & Ideate
 #### Persona
-Persona template and User Journey.
+[Persona template](ideate/persona/) and [User Journey](ideate/user-journey/).
 
 #### User Flow
-Library Kit to design fast series of steps a user takes to achieve a goal.
+[Library Kit](ideate/user-flow/) to design fast series of steps a user takes to achieve a goal.
 
 
 
@@ -16,18 +16,18 @@ Library Kit to design fast series of steps a user takes to achieve a goal.
 #### Ui Kit
 Contains all elements you need to install.
 It includes :
-- Foundations (colors, typography, elevation, basic material components…)
-- Components (specialised components)
+- [Foundations](design/foundations/) (colors, typography, elevation, basic material components…)
+- [Components](design/components) (specialised components)
 - Data Visualization (bar charts, line charts, column charts…)`
-- Icons (material outlined and filled)
-- Fonts
+- [Icons](design/foundations/icons) (material outlined and filled)
+- [Fonts](design/foundations/fonts)
 
 Dark theme will come next.
 
 
 ### Quick start to use the UI Kit
 #### Get the files
-Sync this Sharepoint folder with OneDrive to get the Sketch Library updates or download the files.
+Download the Sketch or XD libraries.
 
 #### Install the fonts
 Install all the fonts from Fonts folder.
@@ -39,15 +39,15 @@ Install all the fonts from Fonts folder.
 
 
 ### Start designing an app 
-Let’s give a try to the “Create / Patterns / App Starter” which includes all patterns from the global navigation like :
-- Login
+Let’s give a try to the [App Starter](/design/apps/app-starter/) which includes all patterns from the global navigation like :
+- [Login](design/patterns/login/)
 - Solution Page
 - Product Page
 - Apps Page
 - Empty Dashboard
 
-And/or give a look to other screens from the patterns folder.
+And/or give a look to other screens from [the patterns folder](desing/patterns/).
 
 
 ### Having questions?
-Having issues or questions? Write us directly via the Questions channel.
+Fill a [GitHub issue](issues/new).

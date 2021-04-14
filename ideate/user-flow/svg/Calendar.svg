@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="200px" viewBox="0 0 200 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>svg/Calendar</title>
+    <desc>Created with Sketch.</desc>
+    <g id="User-Flows" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Calendar">
+            <rect fill="#FFFFFF" x="0" y="0" width="200" height="200"></rect>
+            <g id="Background" fill="#1A8DE6" fill-opacity="0.1">
+                <rect id="Rectangle" x="0" y="0" width="200" height="200"></rect>
+            </g>
+            <rect id="Rectangle" fill="#FFFFFF" x="31" y="52" width="138" height="97" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" x="46" y="81" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="46" y="96" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="46" y="111" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="46" y="126" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" x="62" y="81" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="62" y="96" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="62" y="111" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="62" y="126" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" x="78" y="81" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="78" y="96" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="78" y="111" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="78" y="126" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="94" y="81" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="94" y="96" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="94" y="111" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="94" y="126" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="110" y="81" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="110" y="96" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="110" y="111" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="110" y="126" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="126" y="81" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill="#1A8DE6" x="126" y="96" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="126" y="111" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="126" y="126" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="142" y="81" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="142" y="96" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.5" fill="#1A8DE6" x="142" y="111" width="12" height="12" rx="2"></rect>
+            <rect id="Rectangle" fill-opacity="0.1" fill="#1A8DE6" x="142" y="126" width="12" height="12" rx="2"></rect>
+            <path d="M41,58 L51,66 L41,74 L41,71.601 L48,66 L41,60.4 L41,58 Z" id="Combined-Shape" fill="#1A8DE6" transform="translate(46.000000, 66.000000) scale(-1, 1) translate(-46.000000, -66.000000) "></path>
+            <path d="M149,58 L159,66 L149,74 L149,71.6 L156,66 L149,60.399 L149,58 Z" id="Combined-Shape" fill="#1A8DE6"></path>
+            <g id="Text-/-Title" transform="translate(70.000000, 63.000000)" fill="#1A8DE6" fill-opacity="0.25">
+                <rect id="Rectangle" x="0" y="0" width="60" height="6"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
