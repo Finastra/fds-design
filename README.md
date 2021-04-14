@@ -50,4 +50,4 @@ And/or give a look to other screens from [the patterns folder](design/patterns/)
 
 
 ### Having questions?
-Fill a [GitHub issue](issues/new).
+Fill a [GitHub issue](https://github.com/Finastra/finastra-design-kit/issues/new).
