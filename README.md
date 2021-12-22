@@ -10,12 +10,12 @@ Here you will find design assets to help you design application with consistent 
 #### User Flow
 [Library Kit](ideate/user-flow/) to design fast series of steps a user takes to achieve a goal.
 
-
-
 ### Create
-#### Ui Kit
-Contains all elements you need to install.
-It includes :
+#### UI Kit
+The [latest version of our UI kit](https://www.figma.com/community/file/982657631921263317) is on Figma.
+
+You can find previous versions hosted on GitHub.
+It includes:
 - [Foundations](design/foundations/) (colors, typography, elevation, basic material components…)
 - [Components](design/components) (specialised components)
 - Data Visualization (bar charts, line charts, column charts…)`
